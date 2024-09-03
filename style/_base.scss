@@ -1,0 +1,25 @@
+.container {
+  max-width: 1170px;
+  margin: auto;
+  width: 86%;
+}
+
+.btn {
+  width: 170px;
+  height: 48px;
+  background: inherit;
+  color: #fff;
+
+  font-size: 14px;
+  font-weight: 900;
+  line-height: 14.35px;
+  text-align: center;
+  border: 1px solid #FFFFFF4B;
+  border-radius: 6px;
+  transition: 1s;
+}
+
+.btn:hover{
+    background: #9f9898;
+    
+}

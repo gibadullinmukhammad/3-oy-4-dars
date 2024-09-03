@@ -1,0 +1,109 @@
+@media(max-width: 570px) {
+
+    .service__wrapper{
+        flex-wrap:wrap ;
+    }
+
+    .service__general{
+        max-width: 90%;
+    }
+
+    .service__card__general{
+        flex-wrap: wrap;
+    }
+
+    .service__card{
+        max-width: 90%;
+    }
+
+    .portfolio{
+        flex-wrap: wrap;
+    }
+
+    .portfolio__text-card{
+        max-width: 90%;
+    }
+
+    .portfolio__img-card{
+        max-width: 90%;
+    }
+    .portfolio__img-card__img{
+        max-width: 90%;
+    }
+
+    .portfolio__img-display{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+   
+    .portfolio__img__general{
+        flex-wrap: wrap;
+    }
+
+   .get-started__wrapper{
+    flex-wrap: wrap;
+    width: 90%;
+
+   }
+   
+   .get-started__text__card{
+    max-width: 90%;
+
+   }
+   .get-started__img img{
+   
+    display: none;
+
+   }
+   .get-started__img__person img{
+    max-width: 90%;
+
+   }
+
+   .events__text{
+    max-width: 90%;
+   }
+   
+   .events__wrapper{
+    flex-wrap: wrap;
+   }
+   .events__wrapper__card{
+    max-width: 90%;
+
+   }
+
+   .our-team__text__card{
+    max-width: 90%;
+   }
+
+   .our-team__wrapper{
+    flex-wrap:wrap;
+   }
+
+   .our-team__card {
+    display: none;
+   }
+
+   .founder__wrapper{
+    flex-wrap: wrap;
+   }
+
+   .founder__img img{
+    max-width: 90%;
+   }
+   
+   .founder__card__text{
+    max-width: 90%;
+    margin: 0;
+   }
+
+   .testimonials__img img{
+    max-width: 90%;
+    margin-left: 0px;
+   }
+}
+
+
+
+
